@@ -1,11 +1,47 @@
 track_name,artist_name,danceability,energy,valence,played_at,track_id,play_count
-Losers (Feat. Jelly Roll),"Post Malone, Jelly Roll",0.607,0.76,0.414,2024-10-27 10:38:51,0gucUyFMFRMlUiVn9US4YX,1
-Like You Mean It,Steven Rodriguez,0.702,0.331,0.414,2024-10-27 10:35:22,27qo8wD02bPb4tbunUm8w8,1
-Fall Back (feat. NAV),"Lithe, NAV",0.855,0.229,0.439,2024-10-27 10:32:43,2L6KDf6tt2bZpIrSvG2qlz,1
-Clubhouse,Mac Miller,0.785,0.616,0.907,2024-10-27 10:29:52,7rdyAfIm1t6h6I1gyLtD17,1
-Foreplay,Jalen Santoy,0.787,0.335,0.582,2024-10-27 10:26:51,3zdtYfRqOn1axEmHZTWivp,1
-Still Omw,Blxst,0.78,0.589,0.552,2024-10-27 10:23:59,2jCow5NxFb0EbcbIGRwNmN,1
-I Had Some Help (Feat. Morgan Wallen),"Post Malone, Morgan Wallen",0.644,0.874,0.753,2024-10-27 10:20:14,5IZXB5IKAD2qlvTPJYDCFB,1
-All Falls Down,"Kanye West, Syleena Johnson",0.657,0.734,0.434,2024-10-27 10:16:02,5SkRLpaGtvYPhw02vZhQQ9,1
-Redbone,Childish Gambino,0.741,0.354,0.583,2024-10-27 10:11:26,3vQ4T78TTMOjQXGfXVKQJo,1
-Lose Control,Teddy Swims,0.561,0.604,0.242,2024-10-27 10:05:15,17phhZDn6oGtzMe56NuWvj,1
+Sunshine,OneRepublic,0.694,0.876,0.769,11/3/24 15:36,7qKIbKpRqsDoXG5vMK6fuT,11
+How to Save a Life,The Fray,0.64,0.743,0.361,11/3/24 15:33,5fVZC9GiM4e8vu99W0Xf6J,2
+Nobody - from Kaiju No. 8,OneRepublic,0.699,0.798,0.927,11/8/24 13:39,3SiVMpHxTS1gspWzRZE50S,21
+Window,Still Woozy,0.714,0.479,0.625,11/1/24 10:37,42Fm8hxhh8i0Zx0Si7XIxd,5
+Life is Swell,Evening Elephants,0.732,0.726,0.651,11/3/24 15:18,59DPrnC4P7vNlT55Yi17NF,2
+High,Stephen Sanchez,0.432,0.714,0.322,11/3/24 15:15,5hlPrSCx9BvnQ3rCTkblMZ,10
+Stay Close,"Koastle, DLG.",0.752,0.427,0.387,11/3/24 15:07,78cZf7Lvdd4hZsIqOWze2Z,4
+Home,Good Neighbours,0.584,0.673,0.138,11/3/24 15:03,68mOSKT4uBkKddEAhlMO61,16
+Lose Control,Teddy Swims,0.561,0.604,0.242,11/3/24 14:45,17phhZDn6oGtzMe56NuWvj,13
+Dial Drunk (with Post Malone),"Noah Kahan, Post Malone",0.669,0.606,0.69,11/2/24 17:47,22VHOlVYBqytsrAqV8yXBK,18
+Bad Dreams,Teddy Swims,0.707,0.68,0.62,11/2/24 14:38,3nHuKdFJZm78CoeBnDcFKe,9
+Stick Season,Noah Kahan,0.664,0.5,0.801,11/2/24 14:35,0mflMxspEfB0VbI1kyLiAv,2
+A Bar Song (Tipsy),Shaboozey,0.722,0.706,0.599,11/1/24 10:34,5fZJQrFKWQLb7FpJXZ1g7K,7
+Riptide,Vance Joy,0.483,0.731,0.484,11/3/24 14:29,2uXlHCUbq9OMUwx3hrk06o,4
+Too Sweet,Hozier,0.741,0.62,0.934,11/3/24 14:26,76JKIsdKrAfWUMjaA0u7v5,23
+Los Santos,Current Blue,0.796,0.463,0.693,11/3/24 14:19,17kygxrx5eoU1EsHSr1dos,2
+The Thrill,"Wiz Khalifa, Empire Of The Sun",0.817,0.775,0.806,11/2/24 21:07,56oGoEjA9eTZYgsttEFKY3,11
+Half of forever,Henrik,0.75,0.313,0.478,11/3/24 14:13,5v3MSh7CD3VNyCwAoSha5p,1
+Tobey (feat. Big Sean and BabyTron),"Eminem, Big Sean, BabyTron",0.667,0.66,0.216,11/3/24 3:27,1ymWIr4E5x6xORlDO0bXlP,11
+Redbone,Childish Gambino,0.741,0.354,0.583,11/3/24 3:09,3vQ4T78TTMOjQXGfXVKQJo,14
+Numb / Encore,"JAY-Z, Linkin Park",0.687,0.793,0.751,11/2/24 21:01,5sNESr6pQfIhL3krM8CtZn,1
+Thoughts from a Balcony,Mac Miller,0.48,0.64,0.475,10/30/24 19:12,1DWDoxqAXqMJ4B8QUMaQUw,10
+I Love,Joyner Lucas,0.626,0.649,0.538,10/30/24 19:04,5cEqfElQEKHTsZsoMaYRWB,10
+They Don't Love It,Jack Harlow,0.536,0.814,0.851,11/2/24 20:47,2dSKFFNoNXKo3hPnlwUdPe,11
+Put It On Me,"Ja Rule, Vita",0.831,0.79,0.791,11/2/24 20:43,0OvwzS8FX73Bw7ykMRmffU,1
+All Falls Down,"Kanye West, Syleena Johnson",0.657,0.734,0.434,11/2/24 20:39,5SkRLpaGtvYPhw02vZhQQ9,1
+Tipsy - Club Mix,J-Kwon,0.925,0.744,0.656,11/2/24 18:23,0jSMveIWvnhDIvzqN74Uc7,1
+The Way You Move (feat. Sleepy Brown),"Outkast, Sleepy Brown",0.871,0.597,0.635,11/2/24 17:56,5z7mYFfhw6N6f23VwrokJD,8
+6 Foot 7 Foot,"Lil Wayne, Cory Gunz",0.364,0.752,0.606,11/8/24 13:51,5Qy6a5KzM4XlRxsNcGYhgH,12
+Wild Thoughts (feat. Rihanna & Bryson Tiller),"DJ Khaled, Rihanna, Bryson Tiller",0.613,0.681,0.619,11/8/24 13:44,45XhKYRRkyeqoW3teSOkCM,14
+Hell & Back,Kid Ink,0.597,0.545,0.344,10/30/24 19:25,0TKWHD7sbO0CrEAdegPLZm,2
+Word to the Wise,Matt Corman,0.764,0.644,0.48,10/30/24 19:21,6GQcqhTC9A2y29lIadEN5m,9
+Desperado,"Vin Jay, Cryptic Wisdom",0.742,0.595,0.523,10/30/24 19:18,0e6cCH9XLB2WOsGXVo3Qpx,3
+Hate It Or Love It,"The Game, 50 Cent",0.802,0.785,0.435,10/30/24 19:15,2wGSgTmgSF3xjRrHkTc25R,6
+Fendi Bucket,Russ,0.88,0.574,0.841,10/30/24 19:01,6qNDyiUi0Hhlr0ZParhOU4,3
+Say Less,"Lizzy Ashliegh, Kota the Friend",0.893,0.557,0.891,10/30/24 18:59,34yJ4ZE6ZGAtlvyN7DuWBD,1
+Album of the Year - Freestyle,J. Cole,0.705,0.816,0.929,11/5/24 18:27,6rDaCGqcQB1urhpCrrD599,14
+Always On Time,"Ja Rule, Ashanti",0.838,0.705,0.837,10/28/24 18:33,2hNf1rawV2XAZ6Jld2Fxwf,4
+Waves,Russ,0.64,0.526,0.314,10/28/24 18:28,5WAKVcv1y3rZapPqt5DdhK,4
+life got crazy,mike.,0.71,0.543,0.481,10/28/24 18:24,5NXthnJecYXjt7sTEWETTY,5
+Nikes on My Feet,Mac Miller,0.801,0.57,0.565,11/5/24 18:22,7cAFB83sEKAmwekVvQtGZj,3
+Ecstasy (Freestyle),"Conductor Williams, Russ",0.566,0.55,0.812,10/28/24 18:16,6L0wTexrFhQJqOt0dV0lik,1
+slip,anees,0.725,0.363,0.706,10/28/24 18:14,4JPqLoxQdTsPkHBGyjlYdj,3
+What's That?,Joyner Lucas,0.868,0.607,0.583,11/8/24 18:11,1Tj4aZAqac3A3uanvIKD8T,3
+Gimme Love,Russ,0.8,0.633,0.565,11/8/24 18:07,7eKpBgv8NhnHQe3rRinuyr,6
+Ramen & OJ,"Joyner Lucas, Lil Baby",0.597,0.571,0.165,11/8/24 18:05,4TIqzdAssasqx3DAe6cG9J,1

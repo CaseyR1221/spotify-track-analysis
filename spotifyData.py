@@ -39,7 +39,6 @@ def load_csv_data():
         print('File exists')
         return pd.read_csv(csv_file_path)
     else:
-        # Create a new empty DataFrame if the file does not exist
         print('File does not exist')
         return pd.DataFrame(columns=['track_name', 'artist_name', 'danceability', 'energy', 'valence', 'played_at', 'track_id', 'play_count'])
 
@@ -47,11 +46,9 @@ def load_csv_data():
 def append_or_update_data(df, new_tracks):
     for track_id, track_info in new_tracks.items():
         if track_id in df['track_id'].values:
-            # Update play_count and played_at for existing tracks
             df.loc[df['track_id'] == track_id, 'play_count'] += 1
             df.loc[df['track_id'] == track_id, 'played_at'] = track_info['played_at']
         else:
-            # Append new tracks
             new_row = pd.Series({
                 'track_name': track_info['track_name'],
                 'artist_name': track_info['artist_name'],
@@ -67,11 +64,7 @@ def append_or_update_data(df, new_tracks):
 
 # Main script
 if __name__ == "__main__":
-    # Fetch recently played tracks
     tracks = get_recently_played_tracks()
-    
-    # x = json.dumps(tracks, indent=4)
-    # print(x)
 
     # Load existing CSV data into a DataFrame
     df = load_csv_data()
@@ -79,7 +72,6 @@ if __name__ == "__main__":
     # Prepare new tracks data
     new_tracks = {}
     for track in tracks:
-        # Get audio features for the track
         af = get_audio_features(track['track']['id'])
         
         track_name = track['track']['name']
